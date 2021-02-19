@@ -1,0 +1,7 @@
+.DS_Store
+*/objects
+*.o
+ft_nm/ft_nm
+ft_otool/ft_otool
+libft/obj/
+libft/libft.a
